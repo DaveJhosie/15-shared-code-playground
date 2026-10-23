@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy>=2.0
+psycopg[binary]
+pydantic>=2.0
+pydantic-settings
+python-dotenv
+email-validator
+PyJWT
+bcrypt
+python-multipart
+httpx
+pycrdt
+pycrdt-websocket
+pytest
+pytest-asyncio
