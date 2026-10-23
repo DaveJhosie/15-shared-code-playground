@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body { height: 100%; margin: 0; background: #1e1e1e; color: #cccccc; font-family: "Segoe UI", system-ui, sans-serif; }
+.yRemoteSelection { background-color: rgba(255, 165, 0, 0.3); }
+.yRemoteSelectionHead { position: absolute; border-left: 2px solid orange; height: 100%; box-sizing: border-box; }
